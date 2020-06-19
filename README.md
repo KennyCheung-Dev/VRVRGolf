@@ -14,13 +14,11 @@ Downloda the windows build from /VRVRGolfBuild/, enjoy :)
 
 Team: 
 
-Kenny Cheung - code, grid design, some level design, etc. 
+Tamiko Tadeo - Leader, VR/Unity programmer
 
-Tamiko Tadeo - code, tutorial levels, etc.
+Kenny Cheung - VR/Unity programmer / Asset modeler/ Video
 
-Christopher Wong - code, some level design
+Liah Castilo - Concept art/ Environment designer/ Audio
 
-Danielle Ragas - Line Art, animation
-
-Nancy Chen - Colors, animation
+Sherry Wang - Environment and asset modeler/ Video
 
